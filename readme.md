@@ -1,0 +1,1 @@
+returns a list of the intials of every word inputted in
